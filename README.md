@@ -1,5 +1,5 @@
 # calculadora-centro-de-massa
-/
+
 Contexto da criação do programa:
 - atividade avaliativa da matéria "Linguagens de Programação" (ADS)
 - feito no primeiro ano que tive contato com programação
